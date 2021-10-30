@@ -1,5 +1,4 @@
 CREATE SCHEMA actor;
---CREATE TABLE user_details (blob_col VARCHAR, Name VARCHAR);
 CREATE TABLE actor (
   actor_id INTEGER,
   first_name VARCHAR,
