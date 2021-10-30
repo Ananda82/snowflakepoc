@@ -5,4 +5,4 @@ CREATE TABLE actor (
   first_name VARCHAR,
   last_name VARCHAR,
   last_update TIMESTAMP,
-) ENGINE=InnoDB DEFAULT CHARSET=utf8mb4;
+);
